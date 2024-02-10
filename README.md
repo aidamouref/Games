@@ -1,2 +1,2 @@
 # Games
-games to help Python
+games to practice Python
